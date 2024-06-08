@@ -37,8 +37,10 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 
 
 ## Video-SOR
+| **Year** | **Pub.** | **Title**              | **Links**                                                    |
+| :------: | :------- | :----------------------------------------------------------- | :------------------------------------------------------------ |
 |     2019   |  ACMMM   | Ranking Video Salient Object Detection  | [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350882)/[Code](https://github.com/XinyuYanTJU/RVSOD) 
-|     2022   | ArXiv | Rethinking Video Salient Object Ranking  | [Paper](https://arxiv.org/pdf/2203.17257)/[Code]()
+|     2022   | ArXiv | Rethinking Video Salient Object Ranking  | [Paper](https://arxiv.org/pdf/2203.17257)/Code
 
 
 <!-- ## Metric
