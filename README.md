@@ -20,8 +20,10 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 |   x   |   x    | x | x |
 
 ## Image-SOR
-|   2018  | CVPR | Revisiting Salient Object Detection:
-Simultaneous Detection, Ranking, and Subitizing of Multiple Salient Objects <br> <sub><sup>*Md Amirul Islam, Mahmoud Kalash, et al.*</sup></sub>  | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Islam_Revisiting_Salient_Object_CVPR_2018_paper.pdf)/[Code1](https://github.com/islamamirul/rsdnet),[Code2](https://github.com/MinglangQiao/pytorch-rsdnet-sor?tab=readme-ov-file)
+
+| **Year** | **Pub.** | **Title**              | **Links**                                                    |
+| :------: | :------- | :----------------------------------------------------------- | :------------------------------------------------------------ |
+|   2018  | CVPR | Revisiting Salient Object Detection: Simultaneous Detection, Ranking, and Subitizing of Multiple Salient Objects | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Islam_Revisiting_Salient_Object_CVPR_2018_paper.pdf)/[Code(Caffe)](https://github.com/islamamirul/rsdnet), [Code2(torch)](https://github.com/MinglangQiao/pytorch-rsdnet-sor?tab=readme-ov-file)
 
 
 ## Video-SOR
