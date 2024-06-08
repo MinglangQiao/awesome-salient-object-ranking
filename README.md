@@ -49,7 +49,7 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 ## Application
 | **Year** | **Pub.** | **Title**              | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- |:------------------------------------------------------------ |
-|   2024  |   IJCV  | IRNet-RS: image retargeting network via relative saliency | [Paper]()/[Code]() 
+|   2024  |   IJCV  | IRNet-RS: image retargeting network via relative saliency | [Paper](https://link.springer.com/article/10.1007/s00521-023-09258-6)/Code
 
 ## Reference
 [Salient Object Detection](https://github.com/visionxiang/awesome-salient-object-detection)
