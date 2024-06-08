@@ -41,7 +41,6 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 |     2022   | ArXiv | Rethinking Video Salient Object Ranking  | [Paper](https://arxiv.org/pdf/2203.17257)/[Code]()
 
 
-
 <!-- ## Metric
 |        |     |  | [Paper]()/[Code]()  -->
 
