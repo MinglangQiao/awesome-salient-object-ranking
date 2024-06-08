@@ -31,17 +31,21 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 |     2021   |  TPAMI   | Instance-level relative saliency ranking with graph reasoning | [Paper](https://arxiv.org/pdf/2107.03824)/[Code](https://github.com/dragonlee258079/Saliency-Ranking) 
 |     2022   | CVPR | Bidirectional object-context prioritization learning for saliency ranking   | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tian_Bi-Directional_Object-Context_Prioritization_Learning_for_Saliency_Ranking_CVPR_2022_paper.pdf)/[Code](https://github.com/GrassBro/OCOR) 
 |  2023   | ACMMM   |  Partitioned Saliency Ranking with Dense Pyramid Transformers   | [Paper](https://arxiv.org/pdf/2308.00236)/[Code](https://github.com/ssecv/PSR) 
+|   2023     |  TIP   | Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm | [Paper](https://www.researchgate.net/profile/Mengke-Song-2/publication/376579322_Rethinking_Object_Saliency_Ranking_A_Novel_Whole-flow_Processing_Paradigm/links/658957dc6f6e450f19a181a0/Rethinking-Object-Saliency-Ranking-A-Novel-Whole-Flow-Processing-Paradigm.pdf)/[Code](https://github.com/mengkesong/saliency-ranking-paradigm) 
 |     2024   |   TPAMI  | HyperSOR: Context-aware Graph Hypernetwork for Salient Object Ranking | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443257)/[Code](https://github.com/MinglangQiao/SalSOD) 
-|        |     | [Paper]()/[Code]() 
+|     2024   |  CVPR   | Advancing Saliency Ranking with Human Fixations: Dataset, Models and Benchmarks | Paper/Code
+|    2024    |   CVPR  | Domain Separation Graph Neural Networks for Saliency Object Ranking  | Paper/Code 
+
+
 
 ## Video-SOR
-
+|        |     |  | [Paper]()/[Code]() 
 
 ## Metric
-
+|        |     |  | [Paper]()/[Code]() 
 
 ## Application
-
+|        |     |  | [Paper]()/[Code]() 
 
 ## Reference
 [Salient Object Detection](https://github.com/visionxiang/awesome-salient-object-detection)
