@@ -50,6 +50,7 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 | **Year** | **Pub.** | **Title**              | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- |:------------------------------------------------------------ |
 |   2024  |   IJCV  | IRNet-RS: image retargeting network via relative saliency | [Paper](https://link.springer.com/article/10.1007/s00521-023-09258-6)/Code
+| 2011 | WACV | Saliency retargeting: An approach to enhance image aesthetics | [Paper](https://d1wqtxts1xzle7.cloudfront.net/86911875/saliency_retargeting_wacv2011-libre.pdf?1654226908=&response-content-disposition=inline%3B+filename%3DSaliency_retargeting_An_approach_to_enha.pdf&Expires=1717820241&Signature=G7p-ZGzax2U07jyE-bQqQwPqkz7ZJvAvydU71l8g9HSBvPeQZsccA6CSjAYwJ5YcaxkiFj2dJUdHk6sVRKv8sxe13EQFOqU8e8t~MMeb2gpZo8DhEStXucdBTYYpHVaOUpvfhSFhC7~ufWVXgfFnM8MfLFvhX8HtBpHfq3cHfab-wzOS8b9GrT0SQ95Y8LKyOeD8ik3NryoWX~P545jw5m5QNxneKZd9cerZa-lnscObnudsqy~GJFGNJhkjC1hoGlZu5Ake8DPX9hnSLatdbEXSqmCzQUN-POJgwvlDY-SZ6lnR9cYEKTgG9FW1-DLkHZSjNC3mgSotA3SIPfp3vw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)/Code()
 
 ## Reference
 [Salient Object Detection](https://github.com/visionxiang/awesome-salient-object-detection)
