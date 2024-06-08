@@ -7,18 +7,16 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 ## Content:
 - [Salient Object Ranking](#salient-object-ranking)
   - [Content:](#content)
-  - [Database](#database)
   - [Image-SOR](#image-sor)
   - [Video-SOR](#video-sor)
-  - [Metric](#metric)
   - [Application](#application)
   - [Reference](#reference)
 
-## Database
+<!-- ## Database
 
 | **Year** | **Pub.** | **Title**                                      | **Links**                                              |
 | :------: | :------: | :--------------------------------------- | :----------------------------------------------------------- |
-|   x   |   x    | x | x |
+|   x   |   x    | x | x | -->
 
 ## Image-SOR
 
@@ -39,10 +37,13 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 
 
 ## Video-SOR
-|        |     |  | [Paper]()/[Code]() 
+|     2019   |  ACMMM   | Ranking Video Salient Object Detection  | [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350882)/[Code](https://github.com/XinyuYanTJU/RVSOD) 
+|     2022   | ArXiv | Rethinking Video Salient Object Ranking  | [Paper](https://arxiv.org/pdf/2203.17257)/[Code]()
 
-## Metric
-|        |     |  | [Paper]()/[Code]() 
+
+
+<!-- ## Metric
+|        |     |  | [Paper]()/[Code]()  -->
 
 ## Application
 | **Year** | **Pub.** | **Title**              | **Links**                                                    |
