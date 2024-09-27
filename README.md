@@ -35,7 +35,7 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 |     2024   |  CVPR   | Advancing Saliency Ranking with Human Fixations: Dataset, Models and Benchmarks | Paper/Code
 |    2024    |   CVPR  | Domain Separation Graph Neural Networks for Saliency Object Ranking  | Paper/Code 
 |    2024    |   AAAI  | SeqRank: Sequential Ranking of Salient Objectsg  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27964/27947)/[Code](https://github.com/guanhuankang/SeqRank) 
-
+|    2024    |   ECCV  | PoseSOR: Human Pose Can Guide Our Attention | [Paper](https://www.cs.cityu.edu.hk/~rynson/papers/eccv24.pdf)/[Code](https://github.com/guanhuankang/ECCV24PoseSOR)
 
 ## Video-SOR
 | **Year** | **Pub.** | **Title**              | **Links**                                                    |
