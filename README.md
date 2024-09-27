@@ -34,7 +34,7 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 |     2024   |   TPAMI  | HyperSOR: Context-aware Graph Hypernetwork for Salient Object Ranking | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443257)/[Code](https://github.com/MinglangQiao/SalSOD) 
 |     2024   |  CVPR   | Advancing Saliency Ranking with Human Fixations: Dataset, Models and Benchmarks | Paper/Code
 |    2024    |   CVPR  | Domain Separation Graph Neural Networks for Saliency Object Ranking  | Paper/Code 
-
+|    2024    |   AAAI  | SeqRank: Sequential Ranking of Salient Objectsg  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27964/27947)/[Code](https://github.com/guanhuankang/SeqRank) 
 
 
 ## Video-SOR
