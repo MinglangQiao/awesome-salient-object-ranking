@@ -45,7 +45,9 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 | :------: | :------- | :----------------------------------------------------------- | :------------------------------------------------------------ |
 |     2019   |  ACMMM   | Ranking Video Salient Object Detection  | [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350882)/[Code](https://github.com/XinyuYanTJU/RVSOD) 
 |     2022   | ArXiv | Rethinking Video Salient Object Ranking  | [Paper](https://arxiv.org/pdf/2203.17257)/Code
+|    2024    |   ACMMM    | Instance-Level Panoramic Audio-Visual Saliency Detection and Ranking | [Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681070)/[Code](https://github.com/ruohaoguo/pavsodr)
 |    2024    |   NeurIPS | A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking | [Paper](https://openreview.net/pdf?id=VUBtAcQN44)   
+
 
 <!-- ## Metric
 |        |     |  | [Paper]()/[Code]()  -->
