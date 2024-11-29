@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for salient object ranking (SOR). We will keep updating it.
 
-:heavy_exclamation_mark:Updated 2024-06-08.
+:heavy_exclamation_mark:Updated 2024-11-29.
 
 ## Content:
 - [Salient Object Ranking](#salient-object-ranking)
