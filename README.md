@@ -38,6 +38,8 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 |    2024    |   ECCV  | PoseSOR: Human Pose Can Guide Our Attention | [Paper](https://www.cs.cityu.edu.hk/~rynson/papers/eccv24.pdf)/[Code](https://github.com/guanhuankang/ECCV24PoseSOR)
 |    2024    |   arXiv | CaRDiff: Video Salient Object Ranking Chain of Thought Reasoning for Saliency Prediction with Diffusion | [Paper](https://arxiv.org/pdf/2408.12009)
 |    2024    |   NeurIPS | A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking | [Paper](https://openreview.net/pdf?id=VUBtAcQN44)   
+|    2024    |   ECCV    | PoseSOR: Human Pose Can Guide Our Attention | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02792.pdf)/[Code](https://github.com/guanhuankang/ECCV24PoseSOR)
+|    2024    |  arXiv | Leverage Task Context for Object Affordance Ranking | [Paper](https://arxiv.org/pdf/2411.16082)
 
 ## Video-SOR
 | **Year** | **Pub.** | **Title**              | **Links**                                                    |
