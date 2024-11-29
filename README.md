@@ -37,7 +37,6 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 |    2024    |   AAAI  | SeqRank: Sequential Ranking of Salient Objectsg  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27964/27947)/[Code](https://github.com/guanhuankang/SeqRank) 
 |    2024    |   ECCV  | PoseSOR: Human Pose Can Guide Our Attention | [Paper](https://www.cs.cityu.edu.hk/~rynson/papers/eccv24.pdf)/[Code](https://github.com/guanhuankang/ECCV24PoseSOR)
 |    2024    |   arXiv | CaRDiff: Video Salient Object Ranking Chain of Thought Reasoning for Saliency Prediction with Diffusion | [Paper](https://arxiv.org/pdf/2408.12009)
-|    2024    |   NeurIPS | A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking | [Paper](https://openreview.net/pdf?id=VUBtAcQN44)   
 |    2024    |   ECCV    | PoseSOR: Human Pose Can Guide Our Attention | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02792.pdf)/[Code](https://github.com/guanhuankang/ECCV24PoseSOR)
 |    2024    |  arXiv | Leverage Task Context for Object Affordance Ranking | [Paper](https://arxiv.org/pdf/2411.16082)
 
@@ -46,7 +45,7 @@ A curated list of awesome resources for salient object ranking (SOR). We will ke
 | :------: | :------- | :----------------------------------------------------------- | :------------------------------------------------------------ |
 |     2019   |  ACMMM   | Ranking Video Salient Object Detection  | [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350882)/[Code](https://github.com/XinyuYanTJU/RVSOD) 
 |     2022   | ArXiv | Rethinking Video Salient Object Ranking  | [Paper](https://arxiv.org/pdf/2203.17257)/Code
-
+|    2024    |   NeurIPS | A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking | [Paper](https://openreview.net/pdf?id=VUBtAcQN44)   
 
 <!-- ## Metric
 |        |     |  | [Paper]()/[Code]()  -->
